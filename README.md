@@ -1,7 +1,7 @@
 # privacy-policy-for-checkmate
 Privacy policy for CheckMate:General To-Do & List
 Privacy Policy
-Effective Date: [Insert Date]
+Effective Date: 16th Sep 2025
 
 CheckMate:General To-Do & List respects your privacy. This Privacy Policy explains how we handle information when you use our mobile application.
 
